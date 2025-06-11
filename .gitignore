@@ -1,0 +1,7 @@
+echo "
+*.log
+.env
+*.pem
+__pycache__/
+node_modules/
+" > .gitignore
